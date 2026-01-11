@@ -1,2 +1,2 @@
 # sample
-Sample practice 
+Sample practice .
